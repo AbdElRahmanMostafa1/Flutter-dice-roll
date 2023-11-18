@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 main() {
-  const text = 'TEST';
+  const text = 'Hello Flutter';
 
   runApp(MaterialApp(
     home: Scaffold(

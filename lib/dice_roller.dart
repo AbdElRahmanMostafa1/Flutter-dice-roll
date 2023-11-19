@@ -4,7 +4,7 @@ import 'dart:math';
 final randomize = Random();
 
 class DiceRoller extends StatefulWidget {
-  DiceRoller({super.key});
+  const DiceRoller({super.key});
 
   @override
   State<DiceRoller> createState() {
